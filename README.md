@@ -4,6 +4,7 @@ A simple recreation of the classic game Snake using HTML, CSS and JavaScript!
 To run this recreation of the game Snake you must download the file "snake.html" onto your local device. Once the game has been downloaded open the file. Then the game will be ran on your default browser.
 
 How to Play:
+
 ![Playing_Snake](https://github.com/user-attachments/assets/9108dd51-d5cd-4e58-8636-1df77d85f795)
 
 1. Use the arrow keys to control the Snake
